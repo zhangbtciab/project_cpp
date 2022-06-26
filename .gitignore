@@ -1,2 +1,3 @@
 ./study_cpp/build/
 ./study_cpp/cmake-build-debug/*
+*/.idea/*
