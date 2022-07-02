@@ -1,6 +1,0 @@
-add_subdirectory(t1_basic)
-add_subdirectory(t2_class)
-add_subdirectory(t3_template)
-add_subdirectory(t4_memory)
-add_subdirectory(t5_stl)
-add_subdirectory(t6_thread)
